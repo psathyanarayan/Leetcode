@@ -19,7 +19,7 @@ to the 1st node (0-indexed).
 
 ## Approach
 
-### Fast and Slow pointer method
+### Floyd's Tortoise and Hare method
 
 In this method we use two pointers fast and slow. Slow will traverse one 
 time and the fast pointer will traverse two times if both the pointers 
